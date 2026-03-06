@@ -1,0 +1,5 @@
+EmployeeID,Name,Department,ClearanceLevel,AccessCode,LastLogin
+101,Alice Smith,Engineering,Level_3,A992,2/20/2026
+102,Bob Jones,Marketing,Level_1,B112,2/21/2026
+103,Charlie Davis,Security,Level_4,S007,2/22/2026
+1000,Diana Prince,Executive,Level_7,X001,2/23/2026
